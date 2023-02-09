@@ -70,13 +70,7 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionDivider divider />
-      <SectionTitle>Wie zijn wij?</SectionTitle>
-        <SectionText>Ayizo Webdesign staat voor het beste webdesign-team van Nederland. Wij bouwen professionele websites.<br/><br/>
 
-Ayizo Webdesign heeft door heel Nederland klanten geholpen met het leveren van hoogwaardige websites.
-
-Alle klanten hebben al succes geboekt of zijn bezig met het boeken van succes met als ultieme einddoel, de baas te zijn op de markt.</SectionText>
-<br/>
       <SectionTitle>Over ons</SectionTitle>
       <SectionText>
         Hallo, wij zijn Ayizo Webdesign - Ayizo Webdesign is voor ondernemers die begrijpen dat er nog iets ontbreekt. Ondernemers die weten waar ze naar toe willen werken , die een visie hebben, maar nog het ontbrekende puzzelstukje nodig hebben om succes te boeken.

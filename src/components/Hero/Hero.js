@@ -13,7 +13,7 @@ const Hero = () => (
           Ayizo Webdesign !
         </SectionTitle>
         <SectionText style={{paddingBottom:0}}>
-Hoe kan het kopen van een professionele   website van Ayizo jouw leven veranderen / verbeteren ?      </SectionText>
+Hoe kan het kopen van een professionele   website van Ayizo jouw leven veranderen / verbeteren ? <br/> Ayizo Webdesign staat voor het beste webdesign-team van Nederland. Wij bouwen professionele sites voor u.      </SectionText>
         {/*<Button onClick={props.handleClick}>Learn More</Button>*/}
       </LeftSection>
     </Section>

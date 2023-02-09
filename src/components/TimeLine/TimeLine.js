@@ -70,6 +70,13 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionDivider divider />
+      <SectionTitle>Wie zijn wij?</SectionTitle>
+        <SectionText>Ayizo Webdesign staat voor het beste webdesign-team van Nederland. Wij bouwen professionele websites.<br/><br/>
+
+Ayizo Webdesign heeft door heel Nederland klanten geholpen met het leveren van hoogwaardige websites.
+
+Alle klanten hebben al succes geboekt of zijn bezig met het boeken van succes met als ultieme einddoel, de baas te zijn op de markt.</SectionText>
+<br/>
       <SectionTitle>Over ons</SectionTitle>
       <SectionText>
         Hallo, wij zijn Ayizo Webdesign - Ayizo Webdesign is voor ondernemers die begrijpen dat er nog iets ontbreekt. Ondernemers die weten waar ze naar toe willen werken , die een visie hebben, maar nog het ontbrekende puzzelstukje nodig hebben om succes te boeken.
@@ -81,6 +88,17 @@ const Timeline = () => {
       <SectionText>
         Ayizo Webdesign is voor ondernemers die hun onderneming naar de hoogste level willen brengen.
       </SectionText>
+<br/>
+  <SectionTitle>Voor wie is Ayizo Webdesign?</SectionTitle>    
+<SectionText>Ayizo Webdesign is voor ondernemers die begrijpen dat er nog iets ontbreekt. 
+Ondernemers die weten waar ze naar toe willen werken, die een visie hebben, maar nog het ontbrekende puzzelstukje nodig hebben om succes te boeken.
+</SectionText>
+<SectionText>Hoe intelligenter je bent, hoe meer het je opvalt dat er nog wat belangrijks ontbreekt.
+Niet elke ondernemer gelooft erin dat ze het ontbrekende deel gaan vinden.
+</SectionText>
+<SectionText>Ayizo Webdesign is voor ondernemers die WEL geloven in het vinden van het ontbrekende deel wat leidt naar succes. En
+Ayizo Webdesign is voor ondernemers die hun onderneming naar de hoogste level willen brengen.</SectionText>
+
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
        
       </CarouselContainer>
